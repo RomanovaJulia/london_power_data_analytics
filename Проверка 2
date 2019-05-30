@@ -1,0 +1,6 @@
+Добавляю файл
+
+del data['Client']
+del data['Department']
+del data['Manager']
+del data['Service']
